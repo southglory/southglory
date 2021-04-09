@@ -1,6 +1,7 @@
 ### Hi there 👋
 This page contains my code-work history, and also my interests and ideas for AI research.
-
+I mainly use Python, and Javascript.
+Others are Java, C, Matlab...etc.
 
 <!--
 **southglory/southglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
