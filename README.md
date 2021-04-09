@@ -1,6 +1,9 @@
 ### Hi there 👋
 This page contains my code-work history, and also my interests and ideas for AI research.
+
 I mainly use Python, and Javascript.
+
+
 Others are Java, C, Matlab...etc.
 
 <!--
