@@ -1,17 +1,21 @@
 ### Hi there 👋
 [Who am I?]
-I am a freshman developer who aspires to become a solo indie game developer. First of all, I aim to gamify various ideas.
+I am a programmer now who aspires to become a solo indie game developer. Recently, I aim to gamify various ideas.
+
 I majored in a master's degree in mechanical engineering and worked for 6 months at an IT AI startup.
-Currently, I am majoring in artificial intelligence in graduate school again, but more interested in developing one-person games.
+
+Currently, I am majoring in artificial intelligence in graduate school again who is very interested in developing one-person games.
 
 [~2022]
 During this period, this page contains my code-work history, and also my interests and ideas for AI research.
 I mainly used OpenCV Python and Javascript.
 Others were Java, C, Matlab...etc.
 
-[2023~]
+[2023~] :) 
 From this year, I am studing C#, and Unity for game development.
-I am interested in Mobile game, and VR&AR game.
+I am interested in Mobile Casual game, and VR&AR game.
+
+
 
 <!--
 **southglory/southglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
