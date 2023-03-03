@@ -4,7 +4,7 @@ I am a programmer now who aspires to become a solo indie game developer. Recentl
 
 I majored in a master's degree in mechanical engineering and worked for 6 months at an IT AI startup.
 
-Currently, I am studying game development and game artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school to become a good game developer.
+Currently, I am studying game development and game artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school.
 
 [~2022]
 During this period, this page contains my code-work history, and also my interests and ideas for AI research.
