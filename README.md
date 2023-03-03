@@ -16,6 +16,10 @@ From this year, I am studing C#, and Unity for game development.
 I am interested in Mobile Casual game, and VR&AR game.
 
 
+https://blog.naver.com/devramyun
+
+
+
 
 <!--
 **southglory/southglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
