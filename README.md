@@ -2,8 +2,6 @@
 [Who am I?]
 I am a programmer now who aspires to become a solo indie game developer. Recently, I aim to gamify various ideas.
 
-I majored in a master's degree in mechanical engineering and worked for 6 months at an IT AI startup.
-
 Currently, I am studying game development and game artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school.
 
 [~2022]
