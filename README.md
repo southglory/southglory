@@ -2,7 +2,7 @@
 [Who am I?]
 I am a programmer and engineer.
 
-Currently, I am studying game development and game artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school.
+Currently, I am studying app development and artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school.
 
 [~2022]
 During this period, this page contains my code-work history, and also my interests and ideas for AI research.
