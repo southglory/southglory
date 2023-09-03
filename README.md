@@ -1,6 +1,6 @@
 ### Hi there 👋
 [Who am I?]
-I am a programmer now who aspires to become a solo indie game developer. Recently, I aim to gamify various ideas.
+I am a programmer and engineer.
 
 Currently, I am studying game development and game artificial intelligence in my spare time while majoring in computer vision and reinforcement learning artificial intelligence in graduate school.
 
