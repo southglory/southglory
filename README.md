@@ -6,12 +6,11 @@ Currently, I am studying game development and game artificial intelligence in my
 
 [~2022]
 During this period, this page contains my code-work history, and also my interests and ideas for AI research.
-I mainly used OpenCV Python and Javascript.
-Others were Java, C, Matlab...etc.
+I mainly used OpenCV Python.
 
 [2023~] :) 
-From this year, I am studing C#, and Unity for game development.
-I am interested in Mobile Casual game, and VR&AR game.
+From this year, I am studing C#, and Unity for machine learning with game or apps.
+I am interested in any valuable service developments.
 
 
 https://blog.naver.com/devramyun
